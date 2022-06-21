@@ -1,4 +1,21 @@
-## Oiii eu sou a Samuel Lucas, Estudante de programação e tecnologia!
+## I love the way technology covers different areas of the world Solving complex problems and helping to resolve conflicts in many people's lives, I'm currently studying Web Development and looking for a job in the area, these are some of my Stacks and Skills.
+
+Main Soft Skill | Problem Solving | Decision Management Communication | learn to learn.
+
+Agile Methodology | Scrum | Kanban.
+
+React.js | Redux | Contex | Node.js | MySQL | NoSQL| Docker | HTML | CSS | JavaScript | Git | Jest | RTL | Full Stack Front e back End.
+
+I am also looking for a new opportunity in the market that is challenging and where I can apply the new acquired knowledge. I really like the programming area and would like to work in it.
+
+Did you like my Person? Come Talk to me!
+
+Slack: https://trybecourse.slack.com/archives/D02LDR36B7E
+
+facebook: https://www.facebook.com/profile.php?id=100078042022885
+
+Email: samuelLucas24383@gmail.com
+
 <div align="center">
   <a href="https://github.com/SanioDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanioDev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -21,9 +38,9 @@
   <a href="https://www.youtube.com/channel/UCXDDUZ8UhnQbZ8R8yuoegFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/samuca_luc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://api.whatsapp.com/message/FVVMWZEROXLKM1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- <a href="https://discord.com/invite/PPsHaqAxd5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/2tEyGTHr4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvnwdbVZJRfQkxDmCJNvGlGHnNWBvlSvPGNKMkpCCGVspsMPqvWhxSWHwRjgJDGtdfBpMS"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-lucas-gon%C3%A7alves-santana-8b653316b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://linkedin.com/in/samuellucas24383" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
