@@ -10,7 +10,7 @@
   <img align="center" alt="Samu-Linux" height="50" width="60" src="https://user-images.githubusercontent.com/93998809/149452173-ef3423e3-8352-472e-af44-a2402759204f.png">
   <img align="center" alt="Samu-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Samu-Git" height="50" width="60" src="https://cdn-icons.flaticon.com/png/128/1240/premium/1240970.png?token=exp=1655773865~hmac=742ed166b62743859c69f272f46d51c9">
-  <img align="center" alt="Samu-Git-Hub" height="50" width="60" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504911.png?token=exp=1655773913~hmac=66a4014303b6c284bf327fe6810fd405">
+  <img align="center" alt="Samu-Git-Hub" height="50" width="60" src="https://cdn-icons.flaticon.com/png/512/4926/premium/4926625.png?token=exp=1658532988~hmac=4db5bd25d18ef82ed9a99cb506729511" token=exp=1655773913~hmac=66a4014303b6c284bf327fe6810fd405">
   <img align="center" alt="Samu-Node-js" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
   <img align="center" alt="Samu-MySQL" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
   <img align="center" alt="Samu-PHP" height="50" width="60" src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721635.png?token=exp=1655775187~hmac=647b047c560afd3f8bf12c81e06bc751">
