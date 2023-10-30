@@ -1,10 +1,11 @@
 # 🚀 Sobre mim
+<div>
 <img align="left" height="288" src="https://github.com/saniodev/SanioDev/assets/93998809/012c92a5-7758-4d9c-b1af-c7bbfff6faf7"/>
 
 ###
 
 <h4 align="center">Hi there<img src="https://github.com/saniodev/SanioDev/assets/93998809/11faa747-be7d-452b-b4bf-a1dde7a3a213" width="29px"/><br><br>Sou Samuel Lucas, e sou um desenvolvedor Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificados em análise de dados, estatística, matemática em desenvolvimento Full Stack, Scrum Study e Desenvolvimento Full Stack pela Trybe.<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente em arquitetura de software e design de software</h4>
-
+</div>
 ###
 
 <div align="left">
