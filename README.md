@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="center">Hi there<img src="https://github.com/saniodev/SanioDev/assets/93998809/11faa747-be7d-452b-b4bf-a1dde7a3a213" width="29px"/><br><br>Sou Samuel Lucas, e sou um desenvolvedor Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificados em análise de dados, estatística, matemática em desenvolvimento Full Stack, Scrum Study e Desenvolvimento Full Stack pela Trybe.<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente em arquitetura de software e design de software</h4>
+<h3 align="center">Hi there<img src="https://github.com/saniodev/SanioDev/assets/93998809/11faa747-be7d-452b-b4bf-a1dde7a3a213" width="29px"/><br><br>Sou Samuel Lucas, e sou um desenvolvedor Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificados em análise de dados, estatística, matemática em desenvolvimento Full Stack, Scrum Study e Desenvolvimento Full Stack pela Trybe.<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente em arquitetura de software e design de software</h3>
 
 ###
 
