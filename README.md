@@ -1,6 +1,6 @@
 # 🚀 Sobre mim
 
-![woman hair blon 0](https://github.com/saniodev/SanioDev/assets/93998809/012c92a5-7758-4d9c-b1af-c7bbfff6faf7)
+<img align="left" height="250" src="https://github.com/saniodev/SanioDev/assets/93998809/012c92a5-7758-4d9c-b1af-c7bbfff6faf7"/>
 
 ###
 
