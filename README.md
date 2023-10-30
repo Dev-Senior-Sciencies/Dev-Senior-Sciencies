@@ -1,4 +1,5 @@
 # 🚀 Sobre mim
+
 <img align="left" height="288" src="https://github.com/saniodev/SanioDev/assets/93998809/012c92a5-7758-4d9c-b1af-c7bbfff6faf7"/>
 
 ###
@@ -7,9 +8,10 @@
 
 ###
 
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanioDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=false&order=2" height="200em" width="400px" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=SanioDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="200em" width="400px" alt="stats graph"  />
-
+</div>
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=SanioDev&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -57,5 +59,3 @@
   ![Snake animation](https://raw.githubusercontent.com/SanioDev/SanioDev/output/snake.svg)
  </h1>
 </div>
- 
-
