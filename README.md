@@ -1,16 +1,19 @@
 # 🚀 Sobre mim
-<img align="left" height="288" src="https://github.com/saniodev/SanioDev/assets/93998809/012c92a5-7758-4d9c-b1af-c7bbfff6faf7"  />
+<img align="left" height="288" src="https://github.com/saniodev/SanioDev/assets/93998809/012c92a5-7758-4d9c-b1af-c7bbfff6faf7"/>
 
 ###
 
-<h5 align="center">Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br><br>Sou Samuel Lucas, e sou um desenvolvedor Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificados em análise de dados, estatística, matemática em desenvolvimento Full Stack, Scrum Study e Desenvolvimento Full Stack pela Trybe.<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente em arquitetura de software e design de software</h5>
+<h4 align="center">Hi there<img src="https://github.com/saniodev/SanioDev/assets/93998809/11faa747-be7d-452b-b4bf-a1dde7a3a213" width="29px"><br><br>Sou Samuel Lucas, e sou um desenvolvedor Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificados em análise de dados, estatística, matemática em desenvolvimento Full Stack, Scrum Study e Desenvolvimento Full Stack pela Trybe.<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente em arquitetura de software e design de software</h4>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanioDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=false&order=2" height="138" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=SanioDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SanioDev&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=SanioDev&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -57,3 +60,5 @@
   <img src="https://raw.githubusercontent.com/SanioDev/SanioDev/output/snake.svg" alt="Snake animation" />
  </h1>
 </div>
+ 
+
