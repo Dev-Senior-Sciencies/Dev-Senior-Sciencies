@@ -55,7 +55,7 @@
 
    <a href="https://github.com/saniodev">
   <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sanio-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/samuellucas24383/=profile-badge">Samuel Lucas</a></div>
-              
-  ![Snake animation](https://raw.githubusercontent.com/SanioDev/SanioDev/output/snake.svg)
+     
+ ![Snake animation](https://github.com/SanioDev/SanioDev/blob/output/github-contribution-grid-snake.svg)
  </h1>
 </div>
