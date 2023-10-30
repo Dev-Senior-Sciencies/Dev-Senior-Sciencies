@@ -1,15 +1,20 @@
 # 🚀 Sobre mim
-| ![woman hair blon 0](https://camo.githubusercontent.com/fa7580154c6b56cbe4c4f9a8f729fe16dbff9fe6ce4992878115c405945b14dd/68747470733a2f2f73616e696f6465762e6769746875622e696f2f696d672f53616d7563612e706e67) |  Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <br><br>Sou Samuel Lucas, e sou um desenvolvedor Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificados em análise de dados, estatística, matemática em desenvolvimento Full Stack, Scrum Study e Desenvolvimento Full Stack pela Trybe.<br><br>
+<img align="left" height="288" src="https://github.com/saniodev/SanioDev/assets/93998809/012c92a5-7758-4d9c-b1af-c7bbfff6faf7"  />
 
-Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente em arquitetura de software e design de software. |
-| --- | --- |
+###
 
+<h5 align="center">Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br><br>Sou Samuel Lucas, e sou um desenvolvedor Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificados em análise de dados, estatística, matemática em desenvolvimento Full Stack, Scrum Study e Desenvolvimento Full Stack pela Trybe.<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente em arquitetura de software e design de software</h5>
 
- 
-<a href="https://github.com/saniodev">
-<img height="200em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanioDev&theme=nightowl&layout=compact&langs_count=7"/>
-<img height="200em"  width="400px" src="https://github-readme-stats.vercel.app/api?username=SanioDev&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true"/>
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanioDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=false&order=2" height="138" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanioDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SanioDev&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
 <div  align="center"> 
   <div style="display:flex"><br>
     
@@ -49,9 +54,6 @@ Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou
   <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sanio-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/samuellucas24383/=profile-badge">Samuel Lucas</a></div>
               
  
-  <!-- ![Snake animation](https://github.com/SanioDev/SanioDev/blob/output/github-contribution-grid-snake.svg) -->
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/SanioDev/SanioDev/output/snake.svg" alt="Snake animation" />
  </h1>
 </div>
- 
-
