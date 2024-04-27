@@ -1,22 +1,22 @@
 # 🚀 Sobre mim
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<img align="left" height="250" src="https://github.com/saniodev/SanioDev/assets/93998809/012c92a5-7758-4d9c-b1af-c7bbfff6faf7"/>
+<img align="left" height="250" src="https://github.com/Dev-Senior-Sciencies/Dev-Senior-Sciencies/assets/93998809/012c92a5-7758-4d9c-b1af-c7bbfff6faf7"/>
 
 ###
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Samuel+Lucas;I'm+26+years+old;I+from+Brasil,+MG;I+am+data+Sciencies+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center"><img src="https://github.com/saniodev/SanioDev/assets/93998809/11faa747-be7d-452b-b4bf-a1dde7a3a213" width="29px"/><br><br>Sou Samuel Lucas, e sou um desenvolvedor Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificados em análise de dados, estatística, matemática em desenvolvimento Full Stack, Scrum Study e Desenvolvimento Full Stack pela Trybe.<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente em arquitetura de software e design de software</h3>
+<h3 align="center"><img src="https://github.com/Dev-Senior-Sciencies/Dev-Senior-Sciencies/assets/93998809/11faa747-be7d-452b-b4bf-a1dde7a3a213" width="29px"/><br><br>Sou Samuel Lucas, e sou um desenvolvedor Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificados em análise de dados, estatística, matemática em desenvolvimento Full Stack, Scrum Study e Desenvolvimento Full Stack pela Trybe.<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente em arquitetura de software e design de software</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanioDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=false&order=2" height="200em" width="400px" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SanioDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="200em" width="400px" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Senior-Sciencies&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=false&order=2" height="200em" width="400px" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Senior-Sciencies&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="200em" width="400px" alt="stats graph"  />
 </div>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=SanioDev&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=Dev-Senior-Sciencies&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -56,9 +56,9 @@
   <a href="https://www.linkedin.com/in/samuellucas24383/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://wa.me/5531975155693" target="_blank"><img alt="Link para e-mail" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
-   <a href="https://github.com/saniodev">
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sanio-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/samuellucas24383/=profile-badge">Samuel Lucas</a></div>
+   <a href="https://github.com/Dev-Senior-Sciencies">
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="Dev-Senior-Sciencies" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/samuellucas24383/=profile-badge">Samuel Lucas</a></div>
      
-![Snake animation](https://github.com/SanioDev/SanioDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dev-Senior-Sciencies/Dev-Senior-Sciencies/blob/output/github-contribution-grid-snake.svg)
  </h1>
 </div>
